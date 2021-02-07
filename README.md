@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/jonesdevhouse/jonesdevhous
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
+![Early Joneses on Lake](https://user-images.githubusercontent.com/78701358/107158081-5686b880-694d-11eb-8e35-ba26804d2d2b.JPG)
 
 ### Markdown
 
